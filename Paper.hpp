@@ -20,8 +20,6 @@ class Paper {
 
         // method public
         void fold();
-        void glue();
-        void setName(char c);
 };
 
 #endif
